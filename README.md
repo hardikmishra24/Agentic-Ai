@@ -1,2 +1,2 @@
 # Agentic-Ai
-Here I have learned about agentic ai 
+Here I have learned about agentic Ai using project based learning.
