@@ -1,2 +1,1 @@
-# Agentic-Ai
-Here I have learned about agentic Ai using project based learning.
+Here you can learn about Agentic Ai topics included are :-
